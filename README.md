@@ -1,6 +1,6 @@
 # A3-PS015-TC031
 
-connectX – Explainable Home and Last-Mile Connectivity Diagnosis
+ConnectX – Explainable Home and Last-Mile Connectivity Diagnosis
 AIORI Hackathon 3
 
 **Problem Statement:** PS-015 – Explainable Home and Last-Mile Connectivity Diagnosis
